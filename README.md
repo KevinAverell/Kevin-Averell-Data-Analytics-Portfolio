@@ -27,3 +27,5 @@ https://docs.google.com/spreadsheets/d/1QKbspfodTKSFCAphipXl37Oo5z2hKV5rKlxtxypv
 ### Code Example :
 Data from bigquery-public-data.thelook_ecommerce<br>
 https://console.cloud.google.com/bigquery?sq=786231846363:5cfd4af602cf48d7a72ce98ba086fd03
+
+## Phyton Skill sets:
