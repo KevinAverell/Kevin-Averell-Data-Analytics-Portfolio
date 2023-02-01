@@ -58,7 +58,7 @@ https://console.cloud.google.com/bigquery?sq=786231846363:5cfd4af602cf48d7a72ce9
 3. [Maven Toys Sales Analysis: Dashboard (Group Final Project)](https://public.tableau.com/views/GFP_16696455760910/MexicoMavenToys?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Project Based Analytics
-1.[Group Final Project: Maven Toys Sales Analysis](https://drive.google.com/file/d/1HYcAHt9oxT1E5PANXm6oTckPBnO23swF/view?usp=sharing)
+1. [Group Final Project: Maven Toys Sales Analysis](https://drive.google.com/file/d/1HYcAHt9oxT1E5PANXm6oTckPBnO23swF/view?usp=sharing)
 
 ## More:
 1. [Customer Journey for GoFood](https://docs.google.com/spreadsheets/d/1tJudBxFxCG6x-7mUISuTwcz-gkls1RLK/edit?usp=sharing&ouid=113726053587694426345&rtpof=true&sd=true)
