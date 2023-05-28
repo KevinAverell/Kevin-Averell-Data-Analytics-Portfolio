@@ -1,4 +1,3 @@
-# Kevin-Averell-Data-Analytics-Portfolio
 Hi! <br> 
 My name is Kevin Averell, just call me Kevin.<br>
 Here is my portfolio as a data analyst, please check it out!
@@ -14,7 +13,7 @@ Here is my portfolio as a data analyst, please check it out!
 
 ### Spreadsheet Example :
 [Data from Property Listings In Kuala Lumpur (Kaggle)](https://www.kaggle.com/datasets/dragonduck/property-listings-in-kuala-lumpur)<br>
-https://docs.google.com/spreadsheets/d/1QKbspfodTKSFCAphipXl37Oo5z2hKV5rKlxtxypvGzY/edit?usp=sharing
+[Spreadsheet Data](https://docs.google.com/spreadsheets/d/1QKbspfodTKSFCAphipXl37Oo5z2hKV5rKlxtxypvGzY/edit?usp=sharing)
 
 ## SQL Skill sets:
 * Standard Query Syntax;
@@ -26,7 +25,7 @@ https://docs.google.com/spreadsheets/d/1QKbspfodTKSFCAphipXl37Oo5z2hKV5rKlxtxypv
 
 ### Code Example :
 Data from bigquery-public-data.thelook_ecommerce<br>
-https://console.cloud.google.com/bigquery?sq=786231846363:5cfd4af602cf48d7a72ce98ba086fd03
+[Queries](https://console.cloud.google.com/bigquery?sq=786231846363:5cfd4af602cf48d7a72ce98ba086fd03)
 
 ## Phyton Skill sets:
 * Removing irrelevant values
@@ -58,7 +57,12 @@ https://console.cloud.google.com/bigquery?sq=786231846363:5cfd4af602cf48d7a72ce9
 3. [Maven Toys Sales Analysis: Dashboard (Group Final Project)](https://public.tableau.com/views/GFP_16696455760910/MexicoMavenToys?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Project Based Analytics
-1. [Group Final Project: Maven Toys Sales Analysis](https://drive.google.com/file/d/1HYcAHt9oxT1E5PANXm6oTckPBnO23swF/view?usp=sharing)
+1. [Group Final Project: Maven Toys Sales Analysis](https://drive.google.com/file/d/1qmYKAtzYvWNtR88ZnWFH_JVJGxkGrkuC/view?usp=share_link)
+2. [Developing Support Dashboard forBusiness Performance (KPI) Management](https://drive.google.com/file/d/1T6T3Puk-qxrw9YHsYnQRPI3dJCAnXeo4/view?usp=share_link)
+3. [Crediu (Fintech) marketing strategy: Revising marketing ratio through customer segmentation analysis](https://drive.google.com/file/d/1lDENw8_pmTE9Nl-IQDT7udXJvA_ao6YK/view?usp=share_link)
+4. [CrediU (Fintech) Application Process: Analyzing & Evaluating Application Funnel For Better Application Funnel Strategy](https://drive.google.com/file/d/1D8_AuXWHB5y2g7J9JO4ibsFysde2kqNl/view?usp=share_link)
+5. [Crediu (Fintech) Payment  performance strategy: Analyzing & Evaluating Payment Performance](https://drive.google.com/file/d/14KOV7nT4RJsC1F3J2dDY45YrZNYyQlGX/view?usp=share_link)
+6. [CrediU (Fintech) Overall Performance Strategy: Analyzing & Evaluating Annual End-to-End Company Performance](https://drive.google.com/file/d/1tO1oWF6fgJygbVRGHmSnOmbsXk5CsQCT/view?usp=share_link)
 
 ## More:
 1. [Customer Journey for GoFood](https://docs.google.com/spreadsheets/d/1tJudBxFxCG6x-7mUISuTwcz-gkls1RLK/edit?usp=sharing&ouid=113726053587694426345&rtpof=true&sd=true)
